@@ -1,0 +1,6 @@
+def slug_generator():
+
+
+        
+
+

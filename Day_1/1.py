@@ -1,0 +1,10 @@
+name="Deepika"
+age=20
+percentage=76.3
+cse=True
+a='@'
+print(type(a))
+print(type(name))
+print(type(age))
+print(type(percentage))
+print(type(cse))

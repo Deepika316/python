@@ -1,0 +1,15 @@
+mylist=[1,2,3,4,5]
+mylist.append(6)
+print("list:",mylist)
+mylist.append([12,23,34])
+print("list:",mylist)
+mylist.remove(2)
+print("after remove:",mylist)
+mylist.insert(4,315)         #(index,value)
+print("Insert element:",mylist)
+#mylist.pop()
+#print("After pop:",mylist)
+mylist.pop(3)
+print("After poping particular element:",mylist)    #poping particular element
+mylist[5].pop(2)
+print("poped element:",mylist)

@@ -1,0 +1,12 @@
+.container{
+    background-color: aquamarine;
+    color: red;
+    text-align:center ;
+    padding: 5px;
+
+}
+.button{
+    display:flex;
+    justify-content: space-around;
+
+}

@@ -1,0 +1,7 @@
+name=input("Enter your name:")
+surname=input("Enter your surname:")
+age=int(input("Enter your age:"))
+year=int(input("Enter year:"))
+branch=(input("Enter your branch:"))
+percentage=float(input("Enter your percentage:"))
+print(f"My name is {name+" "+surname} and my age is",age,f"currently i am pursing",year,branch,"and my percentage is",percentage,)
